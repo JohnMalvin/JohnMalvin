@@ -3,7 +3,19 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/node_django) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:johnmalvin068@gmail.com) 
 
 # 💻 Tech Stack:
-![React](./assets/REACT.png)
+<img src="./assets/REACT.png" width="75px" alt="Resized Badge" ></img>
+<img src="./assets/TYPESCRIPT.png" width="75px" alt="Resized Badge" ></img>
+<img src="./assets/JAVASCRIPT.png" width="75px" alt="Resized Badge" ></img>
+<img src="./assets/HTML.png" width="75px" alt="Resized Badge" ></img>
+<img src="./assets/CSS.png" width="75px" alt="Resized Badge" ></img>
+<img src="./assets/TAILWIND.png" width="75px" alt="Resized Badge" ></img>
+<img src="./assets/SASS.png" width="75px" alt="Resized Badge" ></img>
+<img src="./assets/NODEJS.png" width="75px" alt="Resized Badge" ></img>
+<img src="./assets/EXPRESS.png" width="75px" alt="Resized Badge" ></img>
+<img src="./assets/MONGODB.png" width="75px" alt="Resized Badge" ></img>
+<img src="./assets/SOCKET.png" width="75px" alt="Resized Badge" ></img>
+<img src="./assets/VITE.png" width="75px" alt="Resized Badge" ></img>
+# ![React](./assets/REACT.png)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
