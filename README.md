@@ -13,7 +13,7 @@
 <img src="./assets/NODEJS.png" width="75px" alt="Resized Badge" ></img>
 <img src="./assets/EXPRESS.png" width="75px" alt="Resized Badge" ></img>
 <img src="./assets/MONGODB.png" width="75px" alt="Resized Badge" ></img>
-<img src="./assets/SOCKET.png" width="75px" alt="Resized Badge" ></img>
+<img src="./assets/SOCKETIO.png" width="75px" alt="Resized Badge" ></img>
 <img src="./assets/VITE.png" width="75px" alt="Resized Badge" ></img>
 # ![React](./assets/REACT.png)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
