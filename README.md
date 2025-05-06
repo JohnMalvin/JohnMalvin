@@ -1,5 +1,12 @@
+<img src="./assets/BANNER.jpg" alt="GitHub Banner" width="100%" />
+<div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JohnMalvin/JohnMalvin/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JohnMalvin/JohnMalvin/output/github-snake.svg" />
+  <img alt="github-snake"    src="https://raw.githubusercontent.com/JohnMalvin/JohnMalvin/output/github-snake.svg" />
+</picture>
+</div>
 
-## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/node_django) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:johnmalvin068@gmail.com) 
 
 # 💻 Tech Stack:
@@ -47,6 +54,5 @@
 
   ## 💰 Get me coffee
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/JohnMalvin825) 
-
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
