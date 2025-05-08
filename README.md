@@ -9,6 +9,11 @@
 </picture>
 </div><hr></hr>
 
+<div align="center">
+  <p>ᴄᴜʀʀᴇɴᴛʟʏ ᴡᴏʀᴋɪɴɢ ᴏɴ:</p> <a href="https://qr-gen-ashy.vercel.app/"><img src="./assets/REACT.png" width="100px" height="auto" alt="QR-Gen"></a>
+<!--   <p>ʟᴀᴛᴇꜱᴛ ᴘʀᴏᴊᴇᴄᴛ:</p> <a href="https://qr-gen-ashy.vercel.app/"><img src="./assets/REACT.png" width="100px" height="auto" alt="QR-Gen"></a> -->
+</div>
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/node_django) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:johnmalvin068@gmail.com) <br>
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/JohnMalvin825) 
