@@ -10,7 +10,7 @@
 </div><hr></hr>
 
 <div align="center">
-  <p>ᴄᴜʀʀᴇɴᴛʟʏ ᴡᴏʀᴋɪɴɢ ᴏɴ:</p> <a href="https://qr-gen-ashy.vercel.app/"><img src="./assets/QR-GEN.png" width="100px" height="auto" alt="QR-Gen"></a>
+  <p>ᴄᴜʀʀᴇɴᴛʟʏ ᴡᴏʀᴋɪɴɢ ᴏɴ:</p> <a href="https://qr-gen-ashy.vercel.app/"><img src="./assets/QR-GEN.svg" width="100px" height="auto" alt="QR-Gen"></a>
   <!-- <p>ʟᴀᴛᴇꜱᴛ ᴘʀᴏᴊᴇᴄᴛ:</p> <a href="https://qr-gen-ashy.vercel.app/"><img src="./assets/REACT.png" width="100px" height="auto" alt="QR-Gen"></a> -->
 </div>
 
