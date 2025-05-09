@@ -1,17 +1,24 @@
 <img src="./assets/BANNER.jpg" alt="GitHub Banner" width="100%" />
 <p align="center">ʜɪ! ɪ'ᴍ ᴊᴏʜɴ 👋</p>
   <hr />
-  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JohnMalvin/JohnMalvin/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JohnMalvin/JohnMalvin/output/github-snake.svg" />
-  <img alt="github-snake"    src="https://raw.githubusercontent.com/JohnMalvin/JohnMalvin/output/github-snake.svg" />
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JohnMalvin/JohnMalvin/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JohnMalvin/JohnMalvin/output/github-snake.svg" />
+    <img alt="github-snake"    src="https://raw.githubusercontent.com/JohnMalvin/JohnMalvin/output/github-snake.svg" />
+  </picture>
+</div>
 </div><hr></hr>
 
 <div align="center">
-  <p>ᴄᴜʀʀᴇɴᴛʟʏ ᴡᴏʀᴋɪɴɢ ᴏɴ:</p> <a href="https://qr-gen-ashy.vercel.app/"><img src="./assets/QR-GEN.png" width="100px" height="auto" alt="QR-Gen"></a>
-  <!-- <p>ʟᴀᴛᴇꜱᴛ ᴘʀᴏᴊᴇᴄᴛ:</p> <a href="https://qr-gen-ashy.vercel.app/"><img src="./assets/REACT.png" width="100px" height="auto" alt="QR-Gen"></a> -->
+  <p>ᴄᴜʀʀᴇɴᴛʟʏ ᴡᴏʀᴋɪɴɢ ᴏɴ:</p>
+  <a href="https://qr-gen-git-master-john-malvins-projects.vercel.app/" target="_blank" rel="noopener noreferrer">
+    <img src="./assets/QR-GEN.png" width="100px" height="auto" alt="QR-Gen">
+  </a>
+  <!-- <p>ʟᴀᴛᴇꜱᴛ ᴘʀᴏᴊᴇᴄᴛ:</p> 
+  <a href="https://qr-gen-ashy.vercel.app/" target="_blank" rel="noopener noreferrer">
+    <img src="./assets/REACT.png" width="100px" height="auto" alt="QR-Gen">
+  </a> -->
 </div>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/node_django) 
