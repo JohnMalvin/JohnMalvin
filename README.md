@@ -12,7 +12,7 @@
 
 <div align="center">
   <p>ᴄᴜʀʀᴇɴᴛʟʏ ᴡᴏʀᴋɪɴɢ ᴏɴ:</p>
-  <a href="https://qr-gen-ashy.vercel.app/" target="_blank" rel="noopener noreferrer">
+  <a href="https://qr-gen-git-master-john-malvins-projects.vercel.app/" target="_blank" rel="noopener noreferrer">
     <img src="./assets/QR-GEN.png" width="100px" height="auto" alt="QR-Gen">
   </a>
   <!-- <p>ʟᴀᴛᴇꜱᴛ ᴘʀᴏᴊᴇᴄᴛ:</p> 
