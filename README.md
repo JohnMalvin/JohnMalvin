@@ -21,6 +21,7 @@
 ## ⚙️ Gears
 <div style="display:flex; flex-wrap:wrap; gap:20px;">
   <img src="./assets/REACT.png" class="tech-icon" width="75px" alt="React" />
+  <img src="./assets/JQUERY.png" class="tech-icon" width="75px" alt="JQUERY" />
   <img src="./assets/TYPESCRIPT.png" class="tech-icon" width="75px" alt="TypeScript" />
   <img src="./assets/JAVASCRIPT.png" class="tech-icon" width="75px" alt="JavaScript" />
   <img src="./assets/HTML.png" class="tech-icon" width="75px" alt="HTML" />
