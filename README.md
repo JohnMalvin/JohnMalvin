@@ -13,19 +13,19 @@
 <div align="center">
   <p>ᴄᴜʀʀᴇɴᴛʟʏ ᴡᴏʀᴋɪɴɢ ᴏɴ:</p>
   <header style="border: 0px">
-    <tr>
-      <td align="center">
-        <a href="https://qr-gen-git-master-john-malvins-projects.vercel.app/" target="_blank">
-          <img src="./assets/QR-GEN.png" width="100px" alt="QR-Gen" />
-        </a>
-      </td>
-      <td> ᴀɴᴅ </td>
-      <td align="center">
+    <div>
+      <div align="center">
         <a href="https://weather-web-app-nine-chi.vercel.app/" target="_blank">
           <img src="./assets/WEATHER.png" width="100px" alt="QR-Gen" />
         </a>
-      </td>
-    </tr>
+      </div>
+      <div> ᴀɴᴅ </div>
+      <div align="center">
+        <a href="https://qr-gen-git-master-john-malvins-projects.vercel.app/" target="_blank">
+          <img src="./assets/QR-GEN.png" width="100px" alt="QR-Gen" />
+        </a>
+      </div>
+    </div>
   </header>
 </div>
 
