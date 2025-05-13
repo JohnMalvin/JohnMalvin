@@ -12,9 +12,24 @@
 
 <div align="center">
   <p>ᴄᴜʀʀᴇɴᴛʟʏ ᴡᴏʀᴋɪɴɢ ᴏɴ:</p>
-  <a href="https://qr-gen-git-master-john-malvins-projects.vercel.app/" target="_blank" rel="noopener noreferrer">
-    <img src="./assets/QR-GEN.png" width="100px" height="auto" alt="QR-Gen">
-  </a>
+  <header style="border: 0px">
+    <tr>
+      <td align="center">
+        <a href="https://qr-gen-git-master-john-malvins-projects.vercel.app/" target="_blank">
+          <img src="./assets/QR-GEN.png" width="100px" alt="QR-Gen" />
+        </a>
+      </td>
+      <td>  </td>
+      <td align="center">
+        <a href="https://qr-gen-git-master-john-malvins-projects.vercel.app/" target="_blank">
+<!--           <img src="./assets/QR-GEN.png" width="100px" alt="QR-Gen" /> -->
+          <p>​🇼​​🇪​​🇦​​🇹​​🇭​​🇪​​🇷​ ​🇼​​🇪​​🇧​-​🇦​​🇵​​🇵​</p>
+        </a>
+      </td>
+    </tr>
+  </header>
+</div>
+
   <!-- <p>ʟᴀᴛᴇꜱᴛ ᴘʀᴏᴊᴇᴄᴛ:</p> 
   <a href="https://qr-gen-ashy.vercel.app/" target="_blank" rel="noopener noreferrer">
     <img src="./assets/REACT.png" width="100px" height="auto" alt="QR-Gen">
@@ -64,3 +79,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnMalvin&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
   
 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=JohnMalvin.JohnMalvin)
