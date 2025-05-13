@@ -19,11 +19,10 @@
           <img src="./assets/QR-GEN.png" width="100px" alt="QR-Gen" />
         </a>
       </td>
-      <td>  </td>
+      <td> ᴀɴᴅ </td>
       <td align="center">
-        <a href="https://qr-gen-git-master-john-malvins-projects.vercel.app/" target="_blank">
-<!--           <img src="./assets/QR-GEN.png" width="100px" alt="QR-Gen" /> -->
-          <p>​🇼​​🇪​​🇦​​🇹​​🇭​​🇪​​🇷​ ​🇼​​🇪​​🇧​-​🇦​​🇵​​🇵​</p>
+        <a href="https://weather-web-app-nine-chi.vercel.app/" target="_blank">
+          <img src="./assets/WEATHER.png" width="100px" alt="QR-Gen" />
         </a>
       </td>
     </tr>
