@@ -14,15 +14,27 @@
   <p>ᴄᴜʀʀᴇɴᴛʟʏ ᴡᴏʀᴋɪɴɢ ᴏɴ:</p>
   <header style="border: 0px">
     <div>
-      <div align="center">
+<!--       <div align="center">
         <a href="https://weather-web-app-nine-chi.vercel.app/" target="_blank">
           <img src="./assets/WEATHER.png" width="100px" alt="QR-Gen" />
         </a>
       </div>
-      <div> ᴀɴᴅ </div>
+      <div> ᴀɴᴅ </div> -->
       <div align="center">
         <a href="https://qr-gen-git-master-john-malvins-projects.vercel.app/" target="_blank">
           <img src="./assets/QR-GEN.png" width="100px" alt="QR-Gen" />
+        </a>
+      </div>
+    </div>
+  </header>
+</div>
+<div align="center">
+  <p>ʟᴀᴛᴇꜱᴛ ᴘʀᴏᴊᴇᴄᴛ:</p>
+  <header style="border: 0px">
+    <div>
+      <div align="center">
+        <a href="https://weather-web-app-pi-puce.vercel.app/" target="_blank">
+          <img src="./assets/WEATHER.png" width="100px" alt="QR-Gen" />
         </a>
       </div>
     </div>
