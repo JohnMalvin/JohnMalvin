@@ -33,7 +33,7 @@
   <header style="border: 0px">
     <div>
       <div align="center">
-        <a href="https://weather-web-app-pi-puce.vercel.app/" target="_blank">
+        <a href="https://weather-web-app-six-chi.vercel.app/" target="_blank">
           <img src="./assets/WEATHER.png" width="100px" alt="QR-Gen" />
         </a>
       </div>
