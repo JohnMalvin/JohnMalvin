@@ -1,5 +1,10 @@
 <img src="./assets/BANNER.jpg" alt="GitHub Banner" width="100%" />
 <p align="center">ʜɪ! ɪ'ᴍ ᴊᴏʜɴ 👋</p>
+  <div>
+    <p >
+      Hi, I’m a Computer Science graduate and current Security Engineering student at UNSW with a passion for technology, design, and problem-solving. I’ve led teams, built creative projects, and enjoyed turning ideas into meaningful digital experiences. I’m always excited to keep learning and to take on new challenges in tech and innovation.
+    </p>
+  </div>
   <hr />
 <div align="center">
   <picture>
@@ -40,12 +45,26 @@
     </div>
   </header>
 </div>
+<div align="center">
+  <p>​🇫​​🇮​​🇬​​🇲​​🇦​ ​🇵​​🇷​​🇴​​🇯​​🇪​​🇨​​🇹​​🇸:</p>
+  <header style="border: 0px">
+    <div>
+      <div align="center">
+        <a href="https://www.notion.so/My-Figma-Projects-2a191fd5d173802b8cd5ecd032dc01df" target="_blank">
+          <img src="./assets/FIGMAPROJECT.svg" 
+            width="100px" alt="FIGMA PROJECT" />
+        </a>
+      </div>
+    </div>
+  </header>
+</div>
 
   <!-- <p>ʟᴀᴛᴇꜱᴛ ᴘʀᴏᴊᴇᴄᴛ:</p> 
   <a href="https://qr-gen-ashy.vercel.app/" target="_blank" rel="noopener noreferrer">
     <img src="./assets/REACT.png" width="100px" height="auto" alt="QR-Gen">
   </a> -->
 </div>
+<hr />
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/node_django) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:johnmalvin068@gmail.com) <br>
